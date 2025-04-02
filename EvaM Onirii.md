@@ -1,6 +1,6 @@
 ---
 created: 2025-04-02T02:24:41+02:00
-modified: 2025-04-02T02:31:54+02:00
+modified: 2025-04-02T02:33:22+02:00
 ---
 
 # EvaM Onirii
@@ -54,5 +54,3 @@ Le spectre choisit toujours le chemin le plus court. Il n'active pas les pièges
 2x Vision spectrale (Sort) : Regardez les trois cartes du dessus de votre deck. Vous pouvez en mettre une dans votre main, une dans votre défausse et une en-dessous de votre deck. Cette action n'est pas considérée comme une pioche. 
 
 Capacité : Changement de propriétaire. 3 PA. Pendant votre prochain tour, vos déplacements, portées, zones et blessures sont augmentés de 1. Passez votre prochain tour et votre adversaire ne peut pas gagner de point de victoire par blessure. N'activez que si votre adversaire à déjà 1 point de victoire.
-
-Bonjour !
