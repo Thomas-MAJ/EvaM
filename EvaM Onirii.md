@@ -1,13 +1,13 @@
 ---
 created: 2025-04-02T02:24:41+02:00
-modified: 2025-04-02T02:29:04+02:00
+modified: 2025-04-02T02:29:36+02:00
 ---
 
 # EvaM Onirii
 
 Jeu Stratégie 1V1
 Tournament 
-K
+
 Un jeu en tour par tour où le but est de descendre les points de vie de l'adversaire à 0 grâce à des capacités et/ou objets. 
 Les objets et capacités sont représentés par des pions et des cartes explicatives. Deck de cartes améliorable avec les niveaux. 
 Plateau 10/6 cases séparé en deux par une ligne médiane pouvant être dépassée. Aucun dépôt sur la zone adverse, mais les effets peuvent dépasser la ligne médiane. 
