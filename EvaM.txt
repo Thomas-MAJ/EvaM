@@ -17,13 +17,14 @@ Balises Nizu : full piège
 2x Amplificatrices : Augmente la Zone des autres balises de +1 et le déplacement de +1 case. Zone : Case +3.
 2x Vol (Sort) : Déplacez-vous de jusqu'à 5 cases en évitant tous les effets et blessures adverses jusqu'à votre prochain tour. Vous ne pouvez pas atterrir dans la base adverse. N'effectuez plus d'action après celle-ci.
 
-Capacité : Arc énergétique. 2 PA, Inflige 1 blessure non défendable. Portée : 2-5 cases. N'utilisez que si votre adversaire à déjà 1 point de victoire et qu'une seule fois par manche. 
+Capacité : Arc énergétique. 2 PA, Inflige 2 blessures. Portée : 2-5 cases. N'utilisez que si votre adversaire à déjà 1 point de victoire et qu'une seule fois par manche. 
 
 Nécra :
 3x Invocation de squelette (point d'invocation) : Invoque un Squelette tous les deux tours. Zone : Case. Retirer : Case +1
 2x Trait d'obscurité (Sort) : Inflige 1 blessure défendable. Portée : 1-4 Cases
-2x Coup de faucille (Attaque) 1 PA : Inflige 1 blessure défendable. Portée : 1 Case. 
-3x Squelette de point (Sort) : Créer un Squelette. Zone : 1 case autour de Nécra. 
+2x Coup de faucille (Attaque) 1 PA : Inflige 1 blessure défendable. Portée : 1 Case.
+(2PA : Déplacez un Squelette de jusqu'à deux case, dans la direction de votre choix)
+3x Ossopraxie (Sort) : Créer un Squelette. Zone : 1 case autour de Nécra. 
 2x Fouille cadavérique (Sort) : Vous pouvez vous défausser d'une carte. Si vous faites ainsi, piochez une carte. Vos Squelettes avancent d'une case, puis créez un Squelette depuis une Invocation que vous avez placé. 
 
 Capacité : Protection squelettique. 0 PA, portée : 1-3. 2 PA, portée : 4-6. Nécra attire un Squelette vers elle pour encaisser un coup. 
@@ -48,3 +49,4 @@ Le spectre choisit toujours le chemin le plus court. Il n'active pas les pièges
 2x Vision spectrale (Sort) : Regardez les trois cartes du dessus de votre deck. Vous pouvez en mettre une dans votre main, une dans votre défausse et une en-dessous de votre deck. Cette action n'est pas considérée comme une pioche. 
 
 Capacité : Changement de propriétaire. 3 PA. Pendant votre prochain tour, vos déplacements, portées, zones et blessures sont augmentés de 1. Passez votre prochain tour et votre adversaire ne peut pas gagner de point de victoire par blessure. N'activez que si votre adversaire à déjà 1 point de victoire.
+Pendant votre prochain tour, vos déplacements, portées et blessures sont augmentés de 1. Si vous ne gagnez pas de point de victoire pendant ce tour, votre adversaire gagne un point de victoire. Si votre adversaire à déjà un point de victoire par blessure, il.elle gagne un point de victoire de base, et vice versa.
