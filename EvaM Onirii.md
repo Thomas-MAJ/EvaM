@@ -1,6 +1,6 @@
 ---
 created: 2025-04-02T02:24:41+02:00
-modified: 2025-04-02T02:29:36+02:00
+modified: 2025-04-02T02:31:41+02:00
 ---
 
 # EvaM Onirii
@@ -49,7 +49,7 @@ Marnath Térit :
 3x Lancer de dague (Attaque, Physique) 1PA : Infligez 1 blessure défendable. Portée : 2-4. 
 2x Invocation spectrale (Sort) : Invoquez un spectre qui poursuit l'adversaire. Si l'adversaire est touché, s'il avait 1 PA pour défendre, rien ne se passe. Sinon, ses déplacements sont réduits à 1 et vos blessures défendables ne le sont plus.
 Le spectre choisit toujours le chemin le plus court. Il n'active pas les pièges et ne retire ni les pièges ni les points d'invocation. Zone : 1 case.
-2x Possession (Sort) : Jusqu'à votre prochain tour, les attaques physiques ne peuvent pas vous blesser. S'il y a un spectre sur le plateau, vous pouvez vous déplacer à son emplacement et le retirer. 
+2x Possession (Sort) : Jusqu'à votre prochain tour, les attaques physiques ne peuvent pas vous blesser. S'il y a un spectre sur le plateau, vous pouvez vous déplacer à son emplacement et le retirer.
 3x Tranchant obscur (Attaque, Magique) 1  PA : Infligez 1 blessure défendable. Portée : 1. 
 2x Vision spectrale (Sort) : Regardez les trois cartes du dessus de votre deck. Vous pouvez en mettre une dans votre main, une dans votre défausse et une en-dessous de votre deck. Cette action n'est pas considérée comme une pioche. 
 
