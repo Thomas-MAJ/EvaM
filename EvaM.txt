@@ -22,8 +22,8 @@ Capacité : Arc énergétique. 2 PA, Inflige 2 blessures. Portée : 2-5 cases. N
 Nécra :
 3x Invocation de squelette (point d'invocation) : Invoque un Squelette tous les deux tours. Zone : Case. Retirer : Case +1
 2x Trait d'obscurité (Sort) : Inflige 1 blessure défendable. Portée : 1-4 Cases
-2x Coup de faucille (Attaque) 1 PA : Inflige 1 blessure défendable. Portée : 1 Case.
-(2PA : Déplacez un Squelette de jusqu'à deux case, dans la direction de votre choix)
+(2x Coup de faucille (Attaque) 1 PA : Inflige 1 blessure défendable. Portée : 1 Case)
+(Remplacé par : Squelette d'apoint, 2PA : Déplacez un Squelette de jusqu'à deux case, dans la direction de votre choix)
 3x Ossopraxie (Sort) : Créer un Squelette. Zone : 1 case autour de Nécra. 
 2x Fouille cadavérique (Sort) : Vous pouvez vous défausser d'une carte. Si vous faites ainsi, piochez une carte. Vos Squelettes avancent d'une case, puis créez un Squelette depuis une Invocation que vous avez placé. 
 
