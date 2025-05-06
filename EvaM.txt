@@ -11,13 +11,13 @@ Plateau 10/6 cases séparé en deux par une ligne médiane pouvant être dépass
 La plupart des pièges posés sont déclenchés lorsque l'adversaire est dessus mais peuvent aussi être activés à distance pour 1 action.
 
 Balises Nizu : full piège 
-3x Électriques : Empêche les déplacements pour le prochain tour de l'adversaire. Zone : Case +1
+3x Électriques : Retire 1PA pour des actions pour le prochain tour de l'adversaire. Zone : Case +1
 2x Aquatiques : Réduits tous les déplacements de l'adversaire à 1. Zone : Case +2
-3x Ardentes : Inflige 1 blessure défendable à l'adversaire. Zone : Case +1 frontale. 
+3x Ardentes : Inflige 1 blessure à l'adversaire. Zone : Case +1 frontale. 
 2x Amplificatrices : Augmente la Zone des autres balises de +1 et le déplacement de +1 case. Zone : Case +3.
 2x Vol (Sort) : Déplacez-vous de jusqu'à 5 cases en évitant tous les effets et blessures adverses jusqu'à votre prochain tour. Vous ne pouvez pas atterrir dans la base adverse. N'effectuez plus d'action après celle-ci.
 
-Capacité : Arc énergétique. 2 PA, Inflige 2 blessures. Portée : 2-5 cases. N'utilisez que si votre adversaire à déjà 1 point de victoire et qu'une seule fois par manche. 
+Capacité : Arc énergétique. 2 PA, Inflige 2 blessures. Portée : 2-5 cases. N'utilisez qu'une seule fois par manche. 
 
 Nécra :
 3x Invocation de squelette (point d'invocation) : Invoque un Squelette tous les deux tours. Zone : Case. Retirer : Case +1
