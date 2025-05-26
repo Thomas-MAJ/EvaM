@@ -17,7 +17,7 @@ Balises Nizu : full piège
 2x Amplificatrices : Augmente la Zone des autres balises de +1 et le déplacement de +1 case. Zone : Case +3.
 2x Vol (Sort) : Déplacez-vous de jusqu'à 5 cases en évitant tous les effets et blessures adverses jusqu'à votre prochain tour. Vous ne pouvez pas atterrir dans la base adverse. N'effectuez plus d'action après celle-ci.
 
-Capacité : Arc énergétique. 2 PA, Inflige 2 blessures. Portée : 2-5 cases. N'utilisez qu'une seule fois par manche. 
+Capacité : Arc énergétique. 2 PA, Inflige 2 blessures. Portée : 2-5 cases. N'utilisez qu'une seule fois par manche et que si votre adversaire ait déjà un point de victoire. 
 
 Nécra :
 3x Invocation de squelette (point d'invocation) : Invoque un Squelette tous les deux tours. Zone : Case. Retirer : Case +1
@@ -27,7 +27,7 @@ Nécra :
 3x Ossopraxie (Sort) : Créer un Squelette. Zone : 1 case autour de Nécra. 
 2x Fouille cadavérique (Sort) : Vous pouvez vous défausser d'une carte. Si vous faites ainsi, piochez une carte. Vos Squelettes avancent d'une case, puis créez un Squelette depuis une Invocation que vous avez placé. 
 
-Capacité : Protection squelettique. 0 PA, portée : 1-3. 2 PA, portée : 4-6. Nécra attire un Squelette vers elle pour encaisser un coup. 
+Capacité : Protection squelettique. 0 PA, portée : 1-3. 2 PA, portée : 4-6. Nécra attire un Squelette vers elle pour encaisser un coup. (Reprendre la nouvelle capacité sur WhatsApp)
 Un Squelette inflige 1 blessure et se détruit après. Un Squelette à 1 PV. Un Squelette ne peut pas prendre de point de base. 
 
 Eva Morgenstern : 
