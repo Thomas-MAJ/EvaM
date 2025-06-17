@@ -81,4 +81,4 @@ Nizu :
 - 
 Marnath :
 
-Le terrain de jeu passe de 10/8 à 2/8 de chaque côté, avec une plaque centrale de 6/8 modulable. Cette plaque donnera des avantages et des inconvénients aux joueurs suivant les interactions avec leur personnages et les éléments rajoutés.
+(Le terrain de jeu passe de 10/8 à 2/8 de chaque côté, avec une plaque centrale de 6/8 modulable. Cette plaque donnera des avantages et des inconvénients aux joueurs suivant les interactions avec leur personnages et les éléments rajoutés.) Extension ?
