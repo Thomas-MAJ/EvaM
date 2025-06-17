@@ -8,3 +8,6 @@ modified: 2025-05-26T21:46:36+02:00
 Marnath Térit :
 
 1m72, 60kg. Svelte mais squelettique, Marnath est blafard avec un regard livide, son visage cerné et ridé est encadré par de longs cheveux noirs gras attaché en un demi catogan.
+
+Eva Morgenstern : 
+1m60, 65kg. Eva est une jeune femme
