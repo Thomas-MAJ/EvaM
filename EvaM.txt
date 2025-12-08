@@ -17,7 +17,7 @@ Balises Nizu : full piège
 2x Amplificatrices : Augmente la Zone des autres balises de +1 et le déplacement de +1 case. Zone : Case +3.
 2x Vol (Sort) : Déplacez-vous de jusqu'à 5 cases en évitant tous les effets et blessures adverses jusqu'à votre prochain tour. Vous ne pouvez pas atterrir dans la base adverse. N'effectuez plus d'action après celle-ci.
 
-Capacité : Arc énergétique. 2 PA, Inflige 2 blessures. Portée : 2-5 cases. N'utilisez qu'une seule fois par manche et que si votre adversaire ait déjà un point de victoire. 
+Capacité : Arc énergétique. 2 PA, Inflige 2 blessures. Portée : 2-5 cases. N'utilisez qu'une seule fois par manche et que si votre adversaire a déjà un point de victoire. 
 
 Nécra :
 3x Invocation de squelette (point d'invocation) : Invoque un Squelette tous les deux tours. Zone : Case. Retirer : Case +1
@@ -70,7 +70,7 @@ Ces cartes, au nombre de 3, auront les mêmes règles que les cartes déjà pré
 Nécra : 
 - Squelette explosif (Sort, 2 PA) : un squelette choisi dans une Zone de 4 cases autour de Nécra explose, infligeant une blessure à distance dans un rayon de 2 cases autour de lui. Mode libérée : la Horde est immobile et inactive pendant un tour. Après ce tour, elle explose infligeant 2 blessures dans un rayon de 3 cases autour d'elle. Nécra quitte le Mode libérée. 
 - Projection squelettique (Sort, 2 PA) : Nécra immobilise un squelette qui la lance jusqu'à 5 cases en ligne droite dans n'importe quelle direction. Vous ne pouvez pas atterrir dans la base adverse et n'effectuez plus aucune action après celle-ci. Mode libérée : la Horde avance de 2 cases et est immobile et inactive pendant son prochain tour. 
-- Armure d'os (Sort, 2 PA) : Nécra éclate 3 squelettes dans une Zone de 2 cases autour d'elle pour se faire une armure avec leurs ossements. Gagnez 2 points de bouclier permanents pendant 2 tours. Nécra ne peut pas effectuer d'attaque tant qu'elle perte l'armure d'os. Mode libérée : la Horde gagne des squelettes jusqu'à compléter la ligne sur laquelle elle est. Elle est immobile et inactive pendant 2 tours et gagne 2 points de bouclier supplémentaires. Elle revient à la normal à la fin des deux tours et perd ses points de bouclier. 
+- Armure d'os (Sort, 2 PA) : Nécra éclate 3 squelettes dans une Zone de 2 cases autour d'elle pour se faire une armure avec leurs ossements. Gagnez 2 points de bouclier permanents pendant 2 tours. Nécra ne peut pas effectuer d'attaque tant qu'elle porte l'armure d'os. Mode libérée : la Horde gagne des squelettes jusqu'à compléter la ligne sur laquelle elle est. Elle est immobile et inactive pendant 2 tours et gagne 2 points de bouclier supplémentaires. Elle revient à la normal à la fin des deux tours et perd ses points de bouclier. 
 
 Nizu : 
 - Échange de balise (Sort, 2 PA) : Défaussez vous de deux cartes pièges pour en chercher une dans votre deck et la mettre dans votre main. Mélangez ensuite votre deck. 
