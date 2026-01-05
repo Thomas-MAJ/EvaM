@@ -54,7 +54,7 @@ Pendant votre prochain tour, vos déplacements, portées et blessures sont augme
 Au début de la partie, chaque joueur.euse reçoit une tuile à placer sur sa partie du plateau. Cette tuile à un effet bénéfique connu pour son propriétaire et un effet nocif connu pour son adversaire. Une fois la tuile posée, elle ne changera pas d'emplacement durant la partie mais pourra être retiré. Une tuile retirée ne peux pas être replacée sur le plateau.
 
 Nécra : 
-Si Nécra ou un squelette qu'elle contrôle passe sur la tuile, cette dernière devient un point d'invocation de squelette. Un squelette apparaît devant la tuile un tour sur deux de manière continue. Si un adversaire passe dessus, la tuile est retirée et crée trois squelettes autour du joueur. 
+Si Nécra ou un squelette qu'elle contrôle passe sur la tuile, cette dernière devient un point d'invocation de squelette. Un squelette apparaît devant la tuile un tour sur deux de manière continue. Si un adversaire passe dessus, la tuile est retirée et crée trois squelettes autour du joueur (côtés et derrière).
 
 Nizu : 
 2 tour après la pose de la tuile, elle se transforme en une balise d'amplification supplémentaire prenant un tour à s'activer d'une zone de 2 cases au lieu de 3. Tant qu'un adversaire est dans la zone de la tuile, ses mouvements et portées sont réduits de 1. 
@@ -63,7 +63,7 @@ Nizu :
 
 Marnath :
 
-Lorsqu'un joueur.euse remporté un point victoire, que se soit de blessure ou de base, le gagnant retourne à sa base de départ alors que celui.celle qui l'a subit reste là où il.elle était ou retourne à la ligne médiane si il.elle était dans la partie adverse du plateau. 
+Lorsqu'un joueur.euse remporte un point victoire, que se soit de blessure ou de base, le gagnant retourne à sa base de départ alors que celui.celle qui l'a subit reste là où il.elle était ou retourne à la ligne médiane si il.elle était dans la partie adverse du plateau. 
 A chaque point gagné, les joueurs peuvent choisir un nouveau type de carte à ajouter dans leur deck. Le gagnant du point aura le choix entre 3 nouveaux types de cartes alors que son adversaire en aura un choisi au hasard parmi les trois qui correspondent à son personnage. 
 Ces cartes, au nombre de 3, auront les mêmes règles que les cartes déjà présentes dans le deck mais seront éphémères. Lorsqu'elle seront jouées, elles disparaîtront de la partie.
  
