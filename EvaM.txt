@@ -10,6 +10,8 @@ Plateau 10/6 cases séparé en deux par une ligne médiane pouvant être dépass
 1 pose/activation prend une action; possibilité à 2x par tour. 
 La plupart des pièges posés sont déclenchés lorsque l'adversaire est dessus mais peuvent aussi être activés à distance pour 1 action.
 
+Apparition de bouclier : Les boucliers servent à encaisser une attaque physique adverse sans prendre de dégât. Il y a 7 générations de boucliers par joueur.euse au long de la partie. 4 à la première manche, 2 à la deuxième manche et 1 à la troisième. Les générations se font un tour sur deux et durent deux tours. Deux boucliers par générations.
+
 Balises Nizu : full piège 
 3x Électriques : Retire 1PA pour des actions pour le prochain tour de l'adversaire. Zone : Case +1
 2x Aquatiques : Réduits tous les déplacements de l'adversaire à 1. Zone : Case +2
