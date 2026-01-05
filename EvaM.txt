@@ -10,7 +10,7 @@ Plateau 10/6 cases séparé en deux par une ligne médiane pouvant être dépass
 1 pose/activation prend une action; possibilité à 2x par tour. 
 La plupart des pièges posés sont déclenchés lorsque l'adversaire est dessus mais peuvent aussi être activés à distance pour 1 action.
 
-Apparition de bouclier : Les boucliers servent à encaisser une attaque physique adverse sans prendre de dégât, ils disparraissent après utilisation. Un.e joueur.euse à un maximum de 2 boucliers actifs. Il y a 7 générations de boucliers par joueur.euse au long de la partie. 4 à la première manche, 2 à la deuxième manche et 1 à la troisième. Les générations de la manche 1 se font un tour sur deux et durent deux tours. Celles de la manche 2 aparraissent un tour sur trois et durent trois tours. La génération de la manche 3 est effective au premier tour et dure jusqu'à ce qu'un bouclier par joueur.euse soit récupérer. les boucliers se conservent entre les manches. 
+Apparition de bouclier : Les boucliers servent à encaisser une attaque physique adverse sans prendre de dégât, ils disparraissent après utilisation. Un.e joueur.euse à un maximum de 2 boucliers actifs. Il y a 7 générations de boucliers par joueur.euse au long de la partie. 4 à la première manche, 2 à la deuxième manche et 1 à la troisième. Les générations de la manche 1 se font un tour sur deux et durent deux tours. Celles de la manche 2 aparraissent au tour deux et cinq et durent trois tours. La génération de la manche 3 est effective au premier tour et dure jusqu'à ce qu'un bouclier par joueur.euse soit récupérer. les boucliers se conservent entre les manches. 
 
 Balises Nizu : full piège 
 3x Électriques : Retire 1PA pour des actions pour le prochain tour de l'adversaire. Zone : Case +1
@@ -47,8 +47,8 @@ Marnath Térit :
 2x Invocation spectrale (Sort) : Invoquez un spectre qui poursuit l'adversaire. Si l'adversaire est touché, s'il avait 1 PA pour défendre, rien ne se passe. Sinon, ses déplacements sont réduits à 1 et vos blessures défendables ne le sont plus.
 Le spectre choisit toujours le chemin le plus court vers la base. Il n'active pas les pièges et ne retire ni les pièges ni les points d'invocation. Zone : 1 case.
 2x Possession (Sort) : Jusqu'à votre prochain tour, les attaques physiques ne peuvent pas vous blesser. S'il y a un spectre sur le plateau, vous pouvez vous déplacer à son emplacement et le retirer.
-3x Tranchant obscur (Attaque, Magique) 1  PA : Infligez 1 blessure défendable. Portée : 1. 
-2x Vision spectrale (Sort) : Regardez les trois cartes du dessus de votre deck. Vous pouvez en mettre une dans votre main, une dans votre défausse et une en-dessous de votre deck. Cette action n'est pas considérée comme une pioche. 
+3x Tranchant obscur (Attaque, Magique) 1 PA : Infligez 1 blessure magique. Portée : 1. 
+2x Vision spectrale (Sort) : Regardez les trois cartes du dessus de votre deck. Vous pouvez en mettre une dans votre main, une dans votre défausse et une en-dessous de votre deck. Cette action n'est pas considérée comme une pioche. Vous ne pouvez pas faire cet effet s'il y a mois de trois cartes dans votre deck.
 
 Capacité : Changement de propriétaire. 3 PA. Pendant votre prochain tour, vos déplacements, portées, zones et blessures sont augmentés de 1. Passez votre prochain tour et votre adversaire ne peut pas gagner de point de victoire par blessure. N'activez que si votre adversaire à déjà 1 point de victoire.
 Pendant votre prochain tour, vos déplacements, portées et blessures sont augmentés de 1. Si vous ne gagnez pas de point de victoire pendant ce tour, votre adversaire gagne un point de victoire. Si votre adversaire à déjà un point de victoire par blessure, il.elle gagne un point de victoire de base, et vice versa.
