@@ -10,7 +10,7 @@ Plateau 10/8 cases séparé en deux par une ligne médiane pouvant être dépass
 1 pose/activation prend une action; possibilité à 2x par tour. 
 La plupart des pièges posés sont déclenchés lorsque l'adversaire est dessus mais peuvent aussi être activés à distance pour 1 action.
 
-Apparition de bouclier : Les boucliers servent à encaisser une attaque physique adverse sans prendre de dégât, ils disparraissent après utilisation. Un.e joueur.euse à un maximum de 2 boucliers actifs. Il y a 7 générations de boucliers par joueur.euse au long de la partie. 4 à la première manche, 2 à la deuxième manche et 1 à la troisième. Les générations de la manche 1 se font un tour sur deux et durent deux tours. Celles de la manche 2 aparraissent au tour deux et cinq et durent trois tours. La génération de la manche 3 est effective au premier tour et dure jusqu'à ce qu'un bouclier par joueur.euse soit récupérer. les boucliers se conservent entre les manches. 
+Apparition de bouclier : Les boucliers servent à encaisser une attaque physique adverse sans prendre de dégât, ils disparraissent après utilisation. Un.e joueur.euse à un maximum de 2 boucliers. Il y a 7 générations de boucliers par joueur.euse au long de la partie. 4 à la première manche, 2 à la deuxième manche et 1 à la troisième. Les générations de la manche 1 se font un tour sur deux et durent deux tours. Celles de la manche 2 aparraissent au tour deux et cinq et durent trois tours. La génération de la manche 3 est effective au premier tour et dure jusqu'à ce qu'un bouclier par joueur.euse soit récupérer. les boucliers se conservent entre les manches. 
 
 Balises Nizu : full piège 
 3x Électriques : Retire 1PA pour des actions pour le prochain tour de l'adversaire. Zone : Case +1
@@ -33,11 +33,11 @@ Capacité : Protection squelettique. 0 PA, portée : 1-3. 2 PA, portée : 4-6. N
 Un Squelette inflige 1 blessure et se détruit après. Un Squelette à 1 PV. Un Squelette ne peut pas prendre de point de base. 
 
 Eva Morgenstern : 
-3x Estoc (Attaque) 1 PA: Avancez d'une case frontalement. Inflige 1 blessure défendable sur une portée de 1-2. Vous ne pouvez plus vous déplacer jusqu'à votre prochain tour. (Si vous faites une deuxième Estoc dans le même tour, n'infligez pas de blessures)
-2x Coup de bouclier (Attaque) 1 PA : Faites reculer votre cible de 1 case. Vous gagnez 1 PA pour défendre. Portée : 1. 
-2x Bond (Sort) : Vous bondissez dans les airs pour atterrir 4-5 cases plus loin. Désactivez et retirez les pièges et les points d'invocation sur votre impact et dans une zone de 1 case autour. N'utilisez que si vous ne vous êtes pas déplacé. Vous ne pouvez plus vous déplacer jusqu'à votre prochain tour. Vous ne pouvez pas atterrir dans la base adverse.
-2x Égide (Invocation) : Confère 1 PA pour défendre tous les trois tours. Quand l'Egide est activé, vous pouvez dépenser 2 PA. Si vous faites ainsi, gagnez 1 PA pour défendre une blessure non défendable.
-3x Coup latéral (Attaque) 1 PA : Infligez 1 blessure défendable sur trois cases latéralement. Portée : 2 en diagonale, puis 2 latérales.
+3x Estoc (Attaque) 1 PA: Avancez d'une case frontalement. Inflige 1 blessure défendable sur une portée de 1-2. Vous ne pouvez plus utiliser de PA pour vous déplacer jusqu'à votre prochain tour. (Si vous faites une deuxième Estoc dans le même tour, n'infligez pas de blessures)
+2x Coup de bouclier (Attaque) 1 PA : Faites reculer votre cible de 1 case. Vous gagnez 1 bouclier jusqu'à votre prochain tour. Portée : 1. 
+2x Bond (Sort) : Vous vous projetez dans les airs pour atterrir 4-5 cases plus loin. Désactivez et retirez les pièges et les points d'invocation sur votre impact et dans une zone de 1 case autour. N'utilisez que si vous ne vous êtes pas déplacé. Vous ne pouvez plus vous déplacer jusqu'à votre prochain tour. Vous ne pouvez pas atterrir dans la base adverse.
+2x Égide (Invocation) : Confère 1 PA tous les trois tours. Vous pouvez avoir un maximum de trois boucliers. Quand l'Egide est activé, vous pouvez dépenser 2 PA. Si vous faites ainsi, gagnez 1 protection de Nartrash pour encaisser une blessure magique jusqu'à votre prochain tour (n compte pas comme un bouclier).
+3x Coup latéral (Attaque) 2 PA : Infligez 1 blessure défendable sur trois cases latéralement. Portée : 2 en diagonale, puis 2 latérales.
 
 Capacité : Coup fatal. 2 PA, portée : 1-5 frontalement. N'activez que si vous et votre adversaire avez chacun 1 point de victoire par blessure et que si vous n'avez effectué aucune action pendant votre tour. 
 Avancez jusqu'à votre cible en ignorant les pièges et infligez 1 blessure non défendable.
