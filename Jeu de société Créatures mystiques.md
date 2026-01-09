@@ -1,12 +1,12 @@
 ---
 created: 2026-01-09T15:05:20+01:00
-modified: 2026-01-09T23:36:52+01:00
+modified: 2026-01-09T23:37:08+01:00
 ---
 
 # Jeu de société Créatures mystiques
 
 Environ une dizaine de créatures par endroit, créatures communes et rares
-Draft de trois cartes 
+Draft de cinq cartes 
 4 joueurs possibles : Laborantin, Observateur, Braconnier, Occultiste.
 Objectifs communs des joueurs : remplir son plateau de cartes, le premier qui le rempli arrête le jeu ; marquer le plus de point à la fin du jeu ; 
 Objectifs et capacités personnels.elles : 
