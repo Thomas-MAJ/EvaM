@@ -1,6 +1,6 @@
 ---
 created: 2026-01-10T00:00:26+01:00
-modified: 2026-01-10T00:25:43+01:00
+modified: 2026-01-10T00:38:41+01:00
 ---
 
 # Créatures mystiques
@@ -38,14 +38,14 @@ modified: 2026-01-10T00:25:43+01:00
 31- Quetzacoatl - Rare - Bolivie
 32- Ouroboros - Rare - Scandinavie
 33- Diables - Commune - Europe
-34- 
-35- 
-36- 
-37- 
-38- 
-39- 
-40- 
-41- 
+34- Gnomes - Commune - Europe
+35- Kraken - Rare - Portugal
+36- Cthullu - Rare - États-Unis
+37- Satyre - Commune - Grèce
+38- Skinwalker - Rare - États-Unis
+39- Têtes-volantes - Commune - États-Unis
+40- Titania - Rare - Europe
+41- Oberon - Rare - Europe
 42- 
 43- 
 44- 
