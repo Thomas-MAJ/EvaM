@@ -1,11 +1,11 @@
 ---
 created: 2026-01-10T00:00:26+01:00
-modified: 2026-01-10T00:38:41+01:00
+modified: 2026-01-10T00:50:46+01:00
 ---
 
 # Créatures mystiques
 
-1- Godzilla - Rare -Japon
+1- Godzilla - Rare - Japon
 2- Goules  - Commune - Arabie
 3- Zombies - Commune - Hawaii
 4- Minotaure - Rare - Grèce 
@@ -46,15 +46,15 @@ modified: 2026-01-10T00:38:41+01:00
 39- Têtes-volantes - Commune - États-Unis
 40- Titania - Rare - Europe
 41- Oberon - Rare - Europe
-42- 
-43- 
-44- 
-45- 
-46- 
-47- 
-48- 
-49- 
-50- 
+42- Shiva - Rare - Inde
+43- Charybde et Scilla - Rares - Grèce
+44- La Louve - Rare - Italie
+45- Asura - Rare - Arabie
+46- Les Atlantes - Communes - Grèce
+47- Gorgones - Commune - Grèce
+48- Géants - Commune - Scandinavie
+49- L'Oie aux œufs d'or - Rare - Europe
+50- Le Grand Méchant Loup - Rare - Allemagne
 51- 
 52- 
 53- 
