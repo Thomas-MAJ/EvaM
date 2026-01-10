@@ -32,7 +32,7 @@ Lors du draft, les joueurs.euses choisissent à tout de rôle une carte parmi ce
 Evénements :
 Moment aléatoire du jeu durant plusieurs tours pendant lesquels apparaissent de nouvelles créatures.
 Les racines d'Yggdrasil : Créatures Divines et nouveautés (Scandinavie)
-Eclat d'Amaterasu : Abondance de Yokai (Japon)
+Eclat d'Amaterasu : Créatures Divines et abondance de Yokai (Japon)
 L'avènement de l'anté-christ : Sortie des créatures de l'ombre (Europe)
 Résurection maya : Créatures Divines (Amérique du sud)
 Sacrement du pharaon : Créatures Divines (Egypte)
