@@ -37,4 +37,5 @@ L'avènement de l'anté-christ : Sortie des créatures de l'ombre (Europe)
 Résurection maya : Créatures Divines (Amérique du sud)
 Sacrement du pharaon : Créatures Divines (Egypte)
 Invocations des shamanes : Abondance de créatures (Afrique)
+Courant de Tao : Créatures Divines et nouveauté (Chine)
 
