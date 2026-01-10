@@ -29,7 +29,7 @@ Kelpie / Banshee / Krampus / Valkyrie / Yggdrasil / Sleipnir / (yt - histoire et
 18- Behemoth - Rare - "Palestine"
 19- Phoenix - Rare - ?
 20- Dragon - ? - Europe/Chine
-21- Kami - ? - Japon
+21- Kami - Rare - Japon (Evénement)
 22- Elfes - Commune - Scandinavie
 23- Kappa - Commune - Japon
 24- Chimère - Rare - Grèce
