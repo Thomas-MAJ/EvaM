@@ -7,13 +7,13 @@ modified: 2026-01-10T11:47:20+01:00
 
 15 monstres de la mythologie africaine (youtube)
 Créatures fantastiques du folklore français (yt)
-Kelpie / Banshee / Krampus / Valkyrie / Yggdrasil /Sleipnir / (yt - histoire et mythologie)
+Kelpie / Banshee / Krampus / Valkyrie / Yggdrasil / Sleipnir / (yt - histoire et mythologie)
 
 1- Godzilla - Rare - Japon
 2- Goules  - Commune - Arabie
 3- Zombies - Commune - Hawaii
 4- Minotaure - Rare - Grèce 
-5- Moires - Rare - Grèce 
+5- Les Moires - Rare - Grèce 
 6- Wendigo - Rare - États-Unis 
 7- Djinn - Commune - Arabie
 8- Vampire - Commune - Roumanie 
