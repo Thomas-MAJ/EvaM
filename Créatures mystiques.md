@@ -79,12 +79,12 @@ Kelpie / Banshee / Krampus / Valkyrie / Yggdrasil / Sleipnir / (yt - histoire et
 68- Sleipnir - Rare - Scandinavie
 69- Salamandre - ? - Europe
 70- Moby Dick - Rare - Angleterre
-71- 
-72- 
-73- 
-74- 
-75- 
-76- 
+71- Zenko / Yako - Rare - Japon
+72- Oni / Kijo - Commune - Japon
+73- Tanuki - Commune - Japon
+74- Gashakuro - Commune - Japon
+75- Nurarihyon - Rare - Japon
+76- Jorogumi - Rare - Japon
 77- 
 78- 
 79- 
