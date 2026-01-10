@@ -1,11 +1,13 @@
 ---
 created: 2026-01-10T00:00:26+01:00
-modified: 2026-01-10T01:24:28+01:00
+modified: 2026-01-10T11:47:20+01:00
 ---
 
 # Créatures mystiques
 
 15 monstres de la mythologie africaine (youtube)
+Créatures fantastiques du folklore français (yt)
+Kelpie / Banshee / Krampus / Valkyrie / Yggdrasil /Sleipnir / (yt - histoire et mythologie)
 
 1- Godzilla - Rare - Japon
 2- Goules  - Commune - Arabie
@@ -21,7 +23,7 @@ modified: 2026-01-10T01:24:28+01:00
 12- Big foot - Rare - États-Unis 
 13- Dahu - Rare - France
 14- Dame blanche - Rare - Angleterre
-15- Banshee - Commune - ?
+15- Banshee - Commune - Irlande 
 16- Krampus - Rare - Allemagne ?
 17- Léviathan - Rare - "Palestine"
 18- Behemoth - Rare - "Palestine"
@@ -65,16 +67,16 @@ modified: 2026-01-10T01:24:28+01:00
 56- Tokolosh - Commune - Zoulou
 57- Inkanyamba - Rare - Afrique du sud
 58- Adze - Commune - Togo
-59- 
-60- 
-61- 
-62- 
-63- 
-64- 
-65- 
-66- 
-67- 
-68- 
+59- La Bête - Rare - France
+60- Le Carcolh - Rare - France
+61- Cocatrix - Commun - France
+62- Basilic - Commun - France
+63- Bigorne et Chicheface - France
+64- Kelpie - Commune - Ecosse
+65- Letiche - Commune - France
+66- Matagots - Commune - France
+67- Valkyrie - Commune - Scandinavie
+68- Sleipnir - Rare - Scandinavie
 69- 
 70- 
 71- 
