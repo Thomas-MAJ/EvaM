@@ -1,9 +1,11 @@
 ---
 created: 2026-01-10T00:00:26+01:00
-modified: 2026-01-10T00:50:46+01:00
+modified: 2026-01-10T01:24:28+01:00
 ---
 
 # Créatures mystiques
+
+15 monstres de la mythologie africaine (youtube)
 
 1- Godzilla - Rare - Japon
 2- Goules  - Commune - Arabie
@@ -55,14 +57,14 @@ modified: 2026-01-10T00:50:46+01:00
 48- Géants - Commune - Scandinavie
 49- L'Oie aux œufs d'or - Rare - Europe
 50- Le Grand Méchant Loup - Rare - Allemagne
-51- 
-52- 
-53- 
-54- 
-55- 
-56- 
-57- 
-58- 
+51- Golems - Commune - "Palestine"
+52- Biloko - Commune - Congo
+53- Homme-Hyene - Commune - Afrique
+54- Kamappa - Rare - Angola
+55- Grootslang - Rare - Afrique du sud
+56- Tokolosh - Commune - Zoulou
+57- Inkanyamba - Rare - Afrique du sud
+58- Adze - Commune - Togo
 59- 
 60- 
 61- 
