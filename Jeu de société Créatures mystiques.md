@@ -10,7 +10,7 @@ Draft de cinq cartes
 4 joueurs possibles : Laborantin, Observateur, Braconnier, Occultiste.
 Objectifs communs des joueurs : remplir son plateau de cartes, le premier qui le rempli arrête le jeu ; marquer le plus de point à la fin du jeu ; 
 Objectifs, capacités et jargons personnels.elles : 
-- Laborantin : avoir sur son plateau le plus de créatures différentes - Vous pouvez retirer une carte que vous possédez déjà de la main et en tirer une nouvelle - Plateau : Laboratoire, Défausse : Rebus, 
+- Laborantin : avoir sur son plateau le plus de créatures différentes - Vous pouvez retirer une carte que vous possédez déjà de la main et en tirer une nouvelle - Plateau : Laboratoire, Défausse : Rebus, Créatures : Sujet d'étude
 - Observateur : avoir le plus de créatures rares sur son plateau - S'il n'y a pas de carte rare dans la main, vous pouvez retirer une carte et en tirer une nouvelle. 
 - Braconnier : avoir le plus de créatures rares dans sa défausse - S'il y a une carte en double dans la main, vous pouvez les placer dans votre défausse. Si vous faites ainsi, remettez une autre carte de votre défausse dans la pile correspondante. Tirer une nouvelle carte et ajouter là à la main avant de la passer. 
 - Occultiste :  n'avoir aucune carte rare sur son plateau ou sa defausse - Tirer une nouvelle carte du paquet et ajoutez là à la main. Retirez une carte de la main avant de la passer.
