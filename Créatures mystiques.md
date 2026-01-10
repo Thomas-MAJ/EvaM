@@ -30,19 +30,19 @@ Kelpie / Banshee / Krampus / Valkyrie / Yggdrasil / Sleipnir / (yt - histoire et
 19- Phoenix - Rare - ?
 20- Dragon - ? - Europe/Chine
 21- Kami - ? - Japon
-22- Elfes - Commune - ?
+22- Elfes - Commune - Scandinavie
 23- Kappa - Commune - Japon
 24- Chimère - Rare - Grèce
-25- Fée - Commune - Europe
+25- Fée - Commune - Monde
 26- Manticore - Rare - "Palestine"
-27- Sphinx - Rare - Egypte
+27- Sphinx - Rare - Grèce
 28- Momie - Commune - Egypte
 29- Amazone - Commune - Grèce
 30- Chupacabra - Commune - Mexique
 31- Quetzacoatl - Rare - Bolivie
 32- Ouroboros - Rare - Scandinavie
 33- Diables - Commune - Europe
-34- Gnomes - Commune - Europe
+34- Gnomes - Commune - Irlande
 35- Kraken - Rare - Portugal
 36- Cthullu - Rare - États-Unis
 37- Satyre - Commune - Grèce
@@ -67,7 +67,7 @@ Kelpie / Banshee / Krampus / Valkyrie / Yggdrasil / Sleipnir / (yt - histoire et
 56- Tokolosh - Commune - Zoulou
 57- Inkanyamba - Rare - Afrique du sud
 58- Adze - Commune - Togo
-59- La Bête - Rare - France
+59- La Bête du Gévaudan - Rare - France
 60- Le Carcolh - Rare - France
 61- Cocatrix - Commun - France
 62- Basilic - Commun - France
@@ -77,8 +77,8 @@ Kelpie / Banshee / Krampus / Valkyrie / Yggdrasil / Sleipnir / (yt - histoire et
 66- Matagots - Commune - France
 67- Valkyrie - Commune - Scandinavie
 68- Sleipnir - Rare - Scandinavie
-69- 
-70- 
+69- Salamandre - ? - Europe
+70- Moby Dick - Rare - Angleterre
 71- 
 72- 
 73- 
