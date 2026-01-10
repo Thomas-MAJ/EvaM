@@ -28,3 +28,13 @@ Tours de jeu :
 Draft : 
 Le premier joueur.euse à drafter, si des joueurs.euses sont sur le même lieu, est celui.celle qui a le moins de point de victoire. En cas d'égalité, l'ordre est défini par une question sur le mystisisme du lieu en question.
 Lors du draft, les joueurs.euses choisissent à tout de rôle une carte parmi celles du dessus du paquet. Le nombre de cartes tirées est égale au nombre de joueurs.euses sur lieu plus une. Les cartes restantes sont mélangées avec le reste du paquet.
+
+Evénements :
+Moment aléatoire du jeu durant plusieurs tours pendant lesquels apparaissent de nouvelles créatures.
+Les racines d'Yggdrasil : Créatures Divines et nouveautés (Scandinavie)
+Eclat d'Amaterasu : Abondance de Yokai (Japon)
+L'avènement de l'anté-christ : Sortie des créatures de l'ombre (Europe)
+Résurection maya : Créatures Divines (Amérique du sud)
+Sacrement du pharaon : Créatures Divines (Egypte)
+Invocations des shamanes : Abondance de créatures (Afrique)
+
