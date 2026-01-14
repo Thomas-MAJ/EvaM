@@ -1,12 +1,12 @@
 ---
 created: 2026-01-09T15:05:20+01:00
-modified: 2026-01-10T10:25:36+01:00
+modified: 2026-01-14T14:32:22+01:00
 ---
 
 # Jeu de société Créatures mystiques
 
 Créatures communes et rares, 2 créatures communes par personnes et 1 créature rare par personne. Possibilité à 1 créature rare par paquet.
-Draft de cinq cartes 
+Draft de cinq cartes max
 4 joueurs possibles : Laborantin, Observateur, Braconnier, Occultiste.
 Objectifs communs des joueurs : remplir son plateau de cartes, le premier qui le rempli arrête le jeu ; marquer le plus de point à la fin du jeu ; 
 Objectifs, capacités et jargons personnels.elles : 
@@ -38,4 +38,3 @@ Résurection maya : Créatures Divines (Amérique du sud)
 Sacrement du pharaon : Créatures Divines (Egypte)
 Invocations des shamanes : Abondance de créatures (Afrique)
 Courant de Tao : Créatures Divines et nouveauté (Chine)
-
