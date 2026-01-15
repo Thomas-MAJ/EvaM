@@ -1,13 +1,13 @@
 ---
 created: 2026-01-10T00:00:26+01:00
-modified: 2026-01-10T11:47:20+01:00
+modified: 2026-01-15T17:01:49+01:00
 ---
 
 # Créatures mystiques
 
 15 monstres de la mythologie africaine (youtube)
 Créatures fantastiques du folklore français (yt)
-Kelpie / Banshee / Krampus / Valkyrie / Yggdrasil / Sleipnir / Yokai (yt - histoire et mythologie)
+Kelpie / Banshee / Krampus / Valkyrie / Yggdrasil / Sleipnir / Yokai / Dullahan /  (yt - histoire et mythologie)
 Histoire des yokai / Mythologie chinoise / (yt - Nota Bene)
 
 1- Godzilla - Rare - Japon - Placé sur le plateau, il vous protège de son propre effet. Dans la défausse, il retire une carte de chaque plateau. (x4)
@@ -58,8 +58,8 @@ Histoire des yokai / Mythologie chinoise / (yt - Nota Bene)
 46- Les Atlantes - Communes - Grèce
 47- Gorgones - Commune - Grèce
 48- Géants - Commune - Scandinavie
-49- L'Oie aux œufs d'or - Rare - Europe
-50- 
+49- L'Oie aux œufs d'or - Rare - Allemagne
+50- Dullahan - Rare - Angleterre
 51- Golems - Commune - "Palestine"
 52- Biloko - Commune - Congo
 53- Homme-Hyene - Commune - Afrique
