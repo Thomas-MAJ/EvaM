@@ -7,7 +7,7 @@ modified: 2026-01-15T17:01:49+01:00
 
 15 monstres de la mythologie africaine (youtube)
 Créatures fantastiques du folklore français (yt)
-Kelpie / Banshee / Krampus / Valkyrie / Yggdrasil / Sleipnir / Yokai / Dullahan /  (yt - histoire et mythologie)
+Kelpie / Banshee / Krampus / Valkyrie / Yggdrasil / Sleipnir / Yokai / Dullahan / Quetzcoatl / Kalanoro / Curupira / Songomby / Baba yaga / Lucifer /  (yt - histoire et mythologie)
 Histoire des yokai / Mythologie chinoise / (yt - Nota Bene)
 
 1- Godzilla - Rare - Japon - Placé sur le plateau, il vous protège de son propre effet. Dans la défausse, il retire une carte de chaque plateau. (x4)
