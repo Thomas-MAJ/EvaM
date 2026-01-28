@@ -12,7 +12,7 @@ Histoire des yokai / Mythologie chinoise / (yt - Nota Bene)
 
 1- Godzilla - Rare - Japon - Placé sur le plateau, il vous protège de son propre effet. Dans la défausse, il retire une carte de chaque plateau. (x4)
 2- Goules  - Commune - Arabie - Retirez une carte de votre plateau ou de votre défausse. Vous pouvez la retirez elle-même. Vous gagnez un point de victoire. (x8)
-3- Zombies - Commune - Hawaii - Placez le sur le plateau ou dans la défausse d'un adversaire. A la fin du tour, transforme une carte adjacente en zombie (le nouveau zombie de recommence pas et ne donne pas de point de victoire) (x8)
+3- Zombies - Commune - Hawaii - Placez le sur le plateau ou dans la défausse d'un adversaire. A la fin du tour, transforme une carte adjacente en zombie (le nouveau zombie ne recommence pas et ne donne pas de point de victoire) (x8)
 4- Minotaure - Rare - Grèce - Vous êtes protégé.e lors du prochain tour de toute interraction adverse. Pendant 2 tours, si une carte devrait être placé sur votre plateau, retirez la du jeu à la place. (x4)
 5- Les Moires - Rare - Grèce - Lors du prochain draft, à votre tour, tirez deux nouvelles cartes. Avant de passer la main, retirez deux cartes. (x1)
 6- Wendigo - Rare - États-Unis - Lorsqu'il est placé sur votre plateau, retirez une carte de chaque plateau. Dans la défausse, retirez une carte de chaque défausse. (x4)
@@ -42,7 +42,7 @@ Histoire des yokai / Mythologie chinoise / (yt - Nota Bene)
 30- Chupacabra - Commune - Mexique - 
 31- Quetzacoatl - Rare - Bolivie
 32- Ouroboros - Rare - Scandinavie
-33- Diables - Commune - Europe
+33- Diables - Commune - Europe - 
 34- Gnomes - Commune - Irlande
 35- Kraken - Rare - Portugal
 36- Cthullu - Rare - États-Unis
