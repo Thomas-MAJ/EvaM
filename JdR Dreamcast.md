@@ -6,4 +6,5 @@ modified: 2026-01-27T21:21:27+01:00
 # JdR Cast a Dream
 
 Univers dystopique, cyberpunk
-Les rêves n'existent plus et une entreprise en essor vend les rêves en bouteilles
+Les rêves n'existent plus et une entreprise en essor vend les rêves en bouteille.
+Cast a Dream, l'entreprise en question, à réaliser l'exploi de faire rêver des personnes grâce à un liquide occulaire. Elle l'utilise pour redonner de l'espoir, du bonheur et des envies à tous ceux et celles qui en ont besoin.
